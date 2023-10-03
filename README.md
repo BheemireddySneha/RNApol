@@ -8,5 +8,5 @@ codes used in RNA polymerase project
 5. MD_PRS.ipynb -> performs PRS for MD data
 6. CA_RMSD_plot.ipynb -> C-alpha RMSD plotting
 
-#mmpbsa
+# mmpbsa
 1. mmpbsa.in -> input for mmpbsa calculations
